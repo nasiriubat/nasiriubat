@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
-<h3 align="center">Backend Developer (PHP, Node JS)</h3>
+<h3 align="center">Software Developer (PHP, Node JS)</h3>
 
 - 🔭 I’m currently working on developing systems for my current company which is based on envato marketplace !
 
-- 🌱 Right now I'm learning Solidity and Blockchain and interested in etherJS !
+- 🌱 Right now I'm learning Node Js/ React Js and interested in etherJs !
 
 - 👨‍💻 All of my projects are available at [https://nasiriubat.github.io/portfolio/](https://nasiriubat.github.io/portfolio/)
 
