@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 <h3 align="center">Software Developer (PHP, Node JS)</h3>
 
-- 🔭 I’m currently working on developing systems for my current company which is based on envato marketplace !
+- 🔭 I’m currently working on researching/developing chatbots for Tampere University !
 
-- 🌱 Right now I'm learning Node Js/ React Js and interested in etherJs !
+- 🌱 Right now I'm learning MERN Stack development and interested in AI & LLMs !
 
 - 👨‍💻 All of my projects are available at [https://nasiriubat.github.io/portfolio/](https://nasiriubat.github.io/portfolio/)
 
-- 🕊️ Solving problem brings inner peace for me !
+- 🕊️ Solving problem brings inner peace to me !
 
 - 📫 How to reach me **shuvo131662@gmail.com**
 
