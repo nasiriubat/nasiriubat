@@ -22,9 +22,23 @@ I build AI agent systems and the web applications around them. Currently a Proje
 
 ### 📄 Publications & Research
 
-- **Context Before Code: An Experience Report on Vibe Coding in Practice**
-- **Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned**
-- **RAG in Practice: Multi-Domain Applications for Academic and Municipal Services** — Master's Thesis, Tampere University
+- **[Context Before Code: An Experience Report on Vibe Coding in Practice](https://arxiv.org/abs/2603.11073)** — arXiv:2603.11073 *(first author)*
+- **[Engineering a Governance-Aware AI Sandbox: Design, Implementation, and Lessons Learned](https://arxiv.org/abs/2603.03394)** — arXiv:2603.03394
+- **[AI Sandbox: Technical Report](https://arxiv.org/abs/2608.02679)** — arXiv:2608.02679
+- **RAG in Practice: Multi-Domain Applications for Academic and Municipal Services** — Master's Thesis, Tampere University (2025) · [Trepo](https://trepo.tuni.fi/handle/10024/232150)
+
+---
+
+### 🎓 Certifications
+
+| Certification | Issuer |
+| --- | --- |
+| Full Stack (MERN) Bootcamp | AI Cloud Academy |
+| Model Context Protocol: Advanced Topics | Anthropic |
+| Introduction to Model Context Protocol | Anthropic |
+| Claude Code 101 | Anthropic |
+| GenAI in Software Engineering | GPT-Lab, Tampere University |
+| SQL (Intermediate) | SoloLearn |
 
 ---
 
@@ -84,15 +98,6 @@ I build AI agent systems and the web applications around them. Currently a Proje
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nasiriubat&show_icons=true&hide_border=true&count_private=true" alt="Nasir's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasiriubat&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 <p align="center"><i>Eat · Code · Sleep · Repeat</i></p>
